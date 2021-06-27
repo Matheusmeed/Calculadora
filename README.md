@@ -14,7 +14,7 @@ As seguintes ferramentes foram utilizadas na construção desse projeto:
 - HTML
 - CSS
 - JavaScript
-- BootStrap
+- Bootstrap
 
 <br>
     Made by Matheus Medeiros da Silva :man_technologist:
