@@ -39,3 +39,7 @@ p {
     color: #ffffff;
     text-align: end;
 }
+
+.btn:hover {
+    cursor: pointer;
+}
